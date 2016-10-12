@@ -2,13 +2,14 @@ package net.chiappone.util.ip;
 
 /**
  * @author Kurtis Chiappone
- * @date 10/9/2016
  */
 public class IpUtil {
 
     /**
-     * @param ip
-     * @return
+     * Converts a String IP address to a long String representation.
+     *
+     * @param ip the IP address to convert
+     * @return a long String representation of the IP address
      */
     public static String longToIp( String ip ) {
 
@@ -34,8 +35,10 @@ public class IpUtil {
     }
 
     /**
-     * @param ip
-     * @return
+     * Converts a String IP address to a long.
+     *
+     * @param ip the IP address to convert
+     * @return a long representation of the IP address
      */
     public static long ipToLong( String ip ) {
 
