@@ -28,9 +28,9 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git://github.com/kchiappone/file-util</connection>
-        <developerConnection>scm:git:https://github.com/kchiappone/file-util.git</developerConnection>
-        <url>https://github.com/kchiappone/file-util/tree/master</url>
+        <connection>scm:git:git://github.com/kchiappone/ip-util</connection>
+        <developerConnection>scm:git:https://github.com/kchiappone/ip-util.git</developerConnection>
+        <url>https://github.com/kchiappone/ip-util/tree/master</url>
     </scm>
 
     <properties>
